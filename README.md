@@ -4,4 +4,7 @@
  <img src="https://github.com/Aston-Martinn/Aston-Martinn/blob/master/logo/Aston-Martinn.png" > 
 </p>
 
-Here...
+Here..
+
+- Mechanical Engineering student.
+- @TenX-OS Developer.
