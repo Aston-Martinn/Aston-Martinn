@@ -6,5 +6,7 @@
 
 Here..
 
-- Mechanical Engineering student.
-- @TenX-OS Developer.
+- I'm a Mechanical Engineering student.
+- I'm Founder & Lead Developer of [TenX-OS](https://github.com/TenX-OS)
+- 
+- ![](https://komarev.com/ghpvc/?username=Aston-Martinn&style=flat-square)
