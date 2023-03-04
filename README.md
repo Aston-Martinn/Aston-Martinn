@@ -6,7 +6,8 @@
 
 Here..
 
-- I'm a Mechanical Engineering student.
+- Baked Mechanical Engineer.
+- Android Developer | Backend Developer at Sclera.
 - I'm Founder & Lead Developer of [TenX-OS](https://github.com/TenX-OS)
 
  ![](https://komarev.com/ghpvc/?username=Aston-Martinn&style=flat-square)
