@@ -7,7 +7,7 @@
 Here..
 
 - Baked Mechanical Engineer.
-- Android Developer | Backend Developer at Sclera.
+- Software Engineer at Tecnicubes.
 - I'm Founder & Lead Developer of [TenX-OS](https://github.com/TenX-OS)
 
  ![](https://komarev.com/ghpvc/?username=Aston-Martinn&style=flat-square)
